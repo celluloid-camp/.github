@@ -7,3 +7,10 @@ Find a PeerTube video, choose an educational objective, annotate the video, shar
 
 - [Celluloid application](https://celluloid.huma-num.fr/)
 - [Peertube Instance](https://celluloid-media.huma-num.fr/)
+
+
+Celluloid was born from a research project lead by **Michaël Bourgatte** and **Laurent Tessier**,
+two senior lecturers at the [Catholic University of Paris](https://en.icp.fr/english-version/).
+Their work focus on educational science and digital humanities.
+
+Celluloid is maintained by [Younes Benaomar](https://github.com/younes200),
