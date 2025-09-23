@@ -5,7 +5,7 @@ Celluloid is a collaborative video annotation application designed for education
 Find a PeerTube video, choose an educational objective, annotate the video, share it with your students, collect their answers, answer their questions.
 
 
-- [Celluloid application](https://celluloid.huma-num.fr/)
+- [Celluloid application](https://celluloid.me/]
 - [Peertube Instance](https://celluloid-media.huma-num.fr/)
 
 
